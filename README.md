@@ -36,7 +36,7 @@ I work mainly with **JavaScript, React, HTML, CSS**, and  **algorithms**, and **
 
 - **GitHub**: [@NuhaminAtomsa](https://github.com/NuhaminAtomsa)
 - **LinkedIn**: [Nuhamin](https://www.linkedin.com/in/nuhamin-atomsa-505b3b377)  
-   **Telegram Channel**: [NuDev Path](https://t.me/Co_ders)  
+- **Telegram Channel**: [NuDev Path](https://t.me/Co_ders)  
 - **Email**: nuhaminatomsa17@gmail.com
 
 > ✉️ Feel free to reach out about frontend roles, internships, collaborations, or open‑source contributions.
