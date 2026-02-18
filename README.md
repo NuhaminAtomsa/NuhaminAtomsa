@@ -15,7 +15,6 @@ I work mainly with **JavaScript, React, HTML, CSS**, and  **algorithms**, and **
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/TailwindCSS-0EA5E9?logo=tailwindcss&logoColor=fff&style=for-the-badge)
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-FF69B4?style=for-the-badge)
 
