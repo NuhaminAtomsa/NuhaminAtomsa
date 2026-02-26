@@ -1,6 +1,6 @@
 # Hi, I'm Nuhamin 👋
 
-Frontend-focused developer with a strong interest in clean UI, smooth UX, and modern JavaScript.  
+Frontend developer with a strong interest in clean UI, smooth UX, and modern JavaScript.  
 I work mainly with **JavaScript, React, HTML, CSS**, and  **algorithms**, and **UI/UX design** to build complete, user‑friendly experiences.
 
 ---
