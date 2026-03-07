@@ -38,4 +38,4 @@ I work mainly with **JavaScript, React, HTML, CSS**, and  **algorithms**, and **
 - **Telegram Channel**: [NuDev Path](https://t.me/Co_ders)  
 - **Email**: nuhaminatomsa17@gmail.com
 
-> ✉️ Feel free to reach out about frontend roles, internships, collaborations, or open‑source contributions.
+> ✉️ Feel free to reach out about frontend roles, internships, collaborations, or open‑source contributions. I happy to connect with you!
