@@ -1,7 +1,7 @@
 # Hi, I'm Nuhamin 👋
 
 Frontend developer with a strong interest in clean UI, smooth UX, and modern JavaScript.  
-I work mainly with **JavaScript, React, HTML, CSS**, and  **algorithms**, and **UI/UX design** to build complete, user‑friendly experiences.
+I work mainly with **JavaScript, HTML, CSS**, and  **algorithms**, and **UI/UX design** to build complete, user‑friendly experiences.
 
 ---
 
@@ -13,10 +13,6 @@ I work mainly with **JavaScript, React, HTML, CSS**, and  **algorithms**, and **
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
 
-**Frontend**
-
-![CSS](https://img.shields.io/badge/TailwindCSS-0EA5E9?logo=tailwindcss&logoColor=fff&style=for-the-badge)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-FF69B4?style=for-the-badge)
 
 
 
